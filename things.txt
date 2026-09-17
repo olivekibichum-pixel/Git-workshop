@@ -1,1 +1,2 @@
 Github enables sharing.
+Git saves versions.
