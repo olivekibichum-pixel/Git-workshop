@@ -1,2 +1,3 @@
 Git tracks changes.
 Apples and bananas.
+Push sends changes.
